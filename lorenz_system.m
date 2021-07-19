@@ -29,11 +29,12 @@ time_sim    = linspace(0,tF,tF*fR_sim); % Time                         [s]
 %% Animation
 
 figure
-set(gcf,'Position',[50 50 1280 720]) % 720p
-% set(gcf,'Position',[50 50 854 480]) % 480p
+% set(gcf,'Position',[50 50 1280 720]) % YouTube: 720p
+% set(gcf,'Position',[50 50 854 480]) % YouTube: 480p
+set(gcf,'Position',[50 50 640 640]) % Instagram
 
 % Create and open video writer object
-v = VideoWriter('lorenz_system.avi');
+v = VideoWriter('lorenz_system.mp4','MPEG-4');
 v.Quality   = 100;
 v.FrameRate = fR;
 open(v);
