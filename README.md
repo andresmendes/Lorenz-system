@@ -13,7 +13,7 @@ Watch the animation on YouTube: https://youtu.be/0SggheZ_Lts
 
 Simulation and animation of the Lorenz system for two slightly different initial conditions.
 
-<!--Watch the animation on YouTube: https://youtu.be/M71m3HquOkg-->
+Watch the animation on YouTube: https://youtu.be/M71m3HquOkg
 
 &nbsp;
 
@@ -21,4 +21,4 @@ Simulation and animation of the Lorenz system for two slightly different initial
 
 Simulation and animation of the Lorenz system with projections.
 
-<!--Watch the animation on YouTube: https://youtu.be/_4cALsBVDww-->
+Watch the animation on YouTube: https://youtu.be/_4cALsBVDww
